@@ -15,6 +15,7 @@ UPLOAD FILES
   c) git commmit -m "Your message here"
   d) git remote add origin https://github.com/your username/your repo created in step 1.git
   e) git pull origin master
+    EXTRA: if got a window asking for message, refer here http://stackoverflow.com/questions/14046122/github-locks-up-mac-terminal-when-using-pull-command/37718057#37718057
   f) git push origin master
 
 DONE!
